@@ -66,7 +66,6 @@ namespace WebApplication.Controllers
 
             //    //SelectListItem element = new SelectListItem() { Text = item.Name.ToString(), Value = item.InterestId.ToString()};
 
-                
             //}
 
            
